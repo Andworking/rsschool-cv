@@ -35,7 +35,7 @@ function multiply(a, b){
 
 ## Education
 
-[skillbox] https://skillbox.ru/
+[skillbox] (https://skillbox.ru/)
 
 ### Language
 
