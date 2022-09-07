@@ -1,6 +1,6 @@
 # Andrey Zakharov
 
-<img src="https://scientificrussia.ru/images/b/teb-full.jpg" alt="my avatar" width="500" heigt="500">
+<img src="https://scientificrussia.ru/images/b/teb-full.jpg" alt="my avatar" heigt="500" width="500">
 
 ### Contacts
 
