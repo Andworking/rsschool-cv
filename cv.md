@@ -1,15 +1,20 @@
 # Andrey Zakharov
 
+![My avatar](https://scientificrussia.ru/images/b/teb-full.jpg)
+
 ### Contacts
 
 **Location:**
 Moscow
 **Email:**
 Andworkong@mail.ru
+**Discord:**
+week#9215
 
 ### About Me
 
-I have excellent communication skills with people, I can always find common ground. I am a novice in the field of IT. I have perseverance, do not lose heart in difficult situations. **My motto:**
+I have excellent communication skills with people, I can always find common ground. I am a novice in the field of IT. I have perseverance, do not lose heart in difficult situations.
+**My motto:**
 
 > If you suffer for a long time, you will get something.
 
@@ -31,9 +36,7 @@ function multiply(a, b){
 }
 ```
 
-### Experience
-
-## Education
+### Education
 
 - skillbox
 - stepik
