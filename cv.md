@@ -2,12 +2,16 @@
 
 ### Contacts
 
-**Location:** > Moscow
-**Email:** > Andworkong@mail.ru
+**Location:**
+
+> Moscow
+> **Email:** > Andworkong@mail.ru
 
 ### About Me
 
-I have excellent communication skills with people, I can always find common ground. I am a novice in the field of IT. I have perseverance, do not lose heart in difficult situations. **My motto:** > If you suffer for a long time, you will get something.
+I have excellent communication skills with people, I can always find common ground. I am a novice in the field of IT. I have perseverance, do not lose heart in difficult situations. **My motto:**
+
+> If you suffer for a long time, you will get something.
 
 ### Skills
 
@@ -31,7 +35,7 @@ function multiply(a, b){
 
 ## Education
 
-[skillbox]https://skillbox.ru/
+[skillbox] https://skillbox.ru/
 
 ### Language
 
