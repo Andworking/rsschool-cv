@@ -3,9 +3,9 @@
 ### Contacts
 
 **Location:**
-
-> Moscow
-> **Email:** > Andworkong@mail.ru
+Moscow
+**Email:**
+Andworkong@mail.ru
 
 ### About Me
 
