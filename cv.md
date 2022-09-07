@@ -1,7 +1,5 @@
 # Andrey Zakharov
 
-![My avatar](https://scientificrussia.ru/images/b/teb-full.jpg)
-
 ### Contacts
 
 **Location:**
