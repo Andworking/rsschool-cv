@@ -16,7 +16,7 @@ week#9215
 I have excellent communication skills with people, I can always find common ground. I am a novice in the field of IT. I have perseverance, do not lose heart in difficult situations.
 **My motto:**
 
-> If you suffer for a long time, you will get something.
+> **If you suffer for a long time, you will get something.**
 
 ### Skills
 
